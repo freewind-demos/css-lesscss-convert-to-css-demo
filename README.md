@@ -1,7 +1,7 @@
-Render LessCSS in Browser Demo
-==============================
+Converting Less to Css Demo
+===========================
 
-Render `less` files in browser, without converting it to css.
+Converting `less` files to css files, then use it in html pages.
 
 ```
 npm install
